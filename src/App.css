@@ -1,3 +1,7 @@
+.App {
+  font-family: "Open";
+}
+
 header {
   width: 100%;
   background: #f2f2f2;
@@ -31,7 +35,7 @@ header {
 }
 .main {
   width: 1000px;
-  background: #f2f2f2;
+
   margin: 0 auto;
   padding: 15px 0;
   height: 100%;
@@ -49,6 +53,7 @@ header {
 }
 
 .post {
+  
 }
 
 .post img {

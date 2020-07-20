@@ -1,5 +1,6 @@
 import React from "react";
 import PostButton from "./PostButton";
+import "./post.css";
 
 export default function Post(props) {
   return (
