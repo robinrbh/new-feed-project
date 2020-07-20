@@ -1,15 +1,14 @@
-import React from 'react'
-import PostButton from './PostButton';
+import React from "react";
+import PostButton from "./PostButton";
 
 export default function Post(props) {
   return (
-    <div className="post"> 
-        <img src={props.imgsrc} />
-        <h3>{props.title}</h3>
-        <p>{props.description}</p>
-        
-        <PostButton title="Like" /> {" "}
-        <PostButton title="Comment" />
+    <div className="post">
+      <img src={props.imgsrc} />
+      <h3>{props.title}</h3>
+      <p>{props.description}</p>
+      <p>something</p>
+      <PostButton title="Like" /> <PostButton title="Comment" />
     </div>
-  )
+  );
 }
