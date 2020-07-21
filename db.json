@@ -1,0 +1,28 @@
+{
+  "racetracks": [
+    {
+      "id": 1,
+      "imgsrc": "https://farm5.staticflickr.com/4614/25116424037_4f940dafdf_c.jpg",
+      "title": "Nürburgring",
+      "description": "Amazing racetrack in Germany, the Green Hell"      
+    },
+    {
+      "id": 2,
+      "imgsrc": "https://farm5.staticflickr.com/4614/25116424037_4f940dafdf_c.jpg",
+      "title": "Spa Francorchamps",
+      "description": "Racetrack in Belgium"   
+    },
+    {
+      "id": 3,
+      "imgsrc": "https://farm5.staticflickr.com/4614/25116424037_4f940dafdf_c.jpg",
+      "title": "Suzuka",
+      "description": "This is a racetrack in Japan"   
+    },
+    {
+      "id": 4,
+      "imgsrc": "https://farm5.staticflickr.com/4614/25116424037_4f940dafdf_c.jpg",
+      "title": "Laguna Seca",
+      "description": "A racetrack in California, USA"   
+    }
+  ]
+}
