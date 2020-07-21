@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
 .App {
 	font-family: "Open Sans";
 }
@@ -15,6 +17,9 @@ header {
 	right: 0;
 	height: 3rem;
 	box-shadow: 1px 1px 2px rgb(175, 175, 175);
+}
+h1 {
+  font-family: Lobster, serif;
 }
 .logo {
 	flex-basis: 10%;
