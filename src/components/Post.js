@@ -1,5 +1,6 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import PostButton from "./PostButton";
+
 import "./post.css";
 
 export default function Post(props) {
@@ -8,7 +9,6 @@ export default function Post(props) {
       <img src={props.imgsrc} />
       <h3>{props.title}</h3>
       <p>{props.description}</p>
-      <p>something</p>
       <PostButton title="Like" />
     </div>
   );
