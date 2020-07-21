@@ -13,14 +13,11 @@ export default function Header() {
         <h1>The world of Racetracks</h1>
       </div>
       <div className="menu">
-        <div class="top">
-          <a href="#" class="menu_icon">
-            <i class="material-icons">dehaze</i>
-          </a>
-        </div>
-        <p>
-          <span>&#9776;</span>
-        </p>
+        <span>
+          <p>
+            <span style={{ cursor: "pointer" }}>&#9776;</span>
+          </p>
+        </span>
       </div>
     </header>
   );
