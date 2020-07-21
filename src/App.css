@@ -1,3 +1,7 @@
+.App {
+  font-family: "Open";
+}
+
 header {
   width: 100%;
   background: #fff;
@@ -53,6 +57,7 @@ header {
 }
 
 .post {
+  
 }
 
 .post img {
