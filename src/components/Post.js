@@ -9,7 +9,7 @@ export default function Post(props) {
       <h3>{props.title}</h3>
       <p>{props.description}</p>
       <p>something</p>
-      <PostButton title="Like" /> <PostButton title="Comment" />
+      <PostButton title="Like" />
     </div>
   );
 }
